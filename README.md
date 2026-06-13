@@ -14,7 +14,7 @@ Designed for quantitative researchers, algorithmic traders, financial engineers,
 
 # VIEW 1 — Main Trading Dashboard
 
-![VIEW1](images/VIEW1.png)
+![VIEW1](VIEW1.png)
 
 The primary dashboard provides:
 
